@@ -83,6 +83,7 @@ The model achieves competitive performance on brain tumor segmentation.
 
 ```bash
 pip install torch torchvision opencv-python numpy matplotlib pillow scikit-learn torchsummary kaggle tensorflow
+```
 
 
 ├── brain_tumor_segmentation.py    # Main implementation
